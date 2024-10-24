@@ -124,7 +124,7 @@
 							</div>
 							<div class="col-lg-8 col-md-6 col-sm-12">
 								<h2> <i class="fa fa-heart-o" aria-hidden="true"></i> <span>Grace Balogun</span> <i class="fa fa-heart-o" aria-hidden="true"></i></h2>
-								<p>I know God was intentional to bless me with one of His loveliest son. That's how intentional HE Loves me</p>
+								<p>I am a loved child of God, saved by His grace. I rest in His everlasting love, and drawn closer to Him by His lovingkindness. I embrace continuous learning and always eager to create a meaningful impact through knowledge and purposeful actions. I know God was intentional to bless me with one of His loveliest son. That's how intentional HE Loves me</p>
 							</div>
 						</div>
 						<div class="row align-items-center about-main-info">
@@ -142,7 +142,7 @@
 							</div>
 							<div class="col-lg-8 col-md-6 col-sm-12">
 								<h2> <i class="fa fa-heart-o" aria-hidden="true"></i> <span>Oluwafemi Ifesanmi </span> <i class="fa fa-heart-o" aria-hidden="true"></i></h2>
-								<p>Looking back, I realize that the timing, the place, and the circumstances were all perfectly arranged. It wasn't coincidence; it was divine intention. And every day that passes, I’m reminded that God’s love is not only shown through the big miracles but also through the people He brings into our lives, those who become our biggest blessings. My fiancé is one of those blessings, a beautiful reminder of how much God loves me—intentionally, purposefully, and unconditionally </p>
+								<p>The Grace of God has always worked for me, and I'm very grateful to God for HIS Unconditional love for me. Looking back, I realize that the timing, the place, and the circumstances of events in my life were all perfectly arranged. It hasn't been a coincidence; they have always been divinely orchestrated. And every day that passes, I’m reminded that God’s love is not only shown through the big miracles but also through the people He brings into our lives, those who become our biggest blessings. My fiancé is one of those blessings, a beautiful reminder of how much God loves me—intentionally, purposefully, and unconditionally </p>
 							</div>
 						</div>
 					</div>
@@ -182,43 +182,43 @@
 								</div>
 							</div>
 							<div class="textContent">
-								<p class="lead">Well, She had always been around,... I just didn't <strike>see</strike> <b>Notice</b> Her. She is a very close friend to my very close firend, and on this fateful day (being Mothers Day), we met at the event celebration in the Church and connected. We immediately found a common language, so a year later our first date happened.</p>
+								<p class="lead">Well, She had always been around,... I just didn't <strike>see</strike> <b>Notice</b> Her. She is a very close friend to my very close friend, and on this fateful day (being Mothers Day), we met at the event celebration in the Church and connected. We immediately found a common language, and the rest is story 🤷🏽‍♂️🤭😜</p>
 							</div>
 						</div>
 					</div>
 					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 item">
 						<div class="caption">
 							<div class="star center-block">
-								<span class="h3">03</span>
+								<span class="h3">27</span>
 								<span>April</span>
-								<span>2017</span>
+								<span>2024</span>
 							</div>
 							<div class="image">
 								<img src="images/time-02.jpg" alt="" />
 								<div class="title">
-									<h2>First date <i class="fa fa-angle-right" aria-hidden="true"></i></h2>
+									<h2>Hangout <i class="fa fa-angle-right" aria-hidden="true"></i></h2>
 								</div>
 							</div>
 							<div class="textContent">
-								<p class="lead">We met at the wedding of our close friends and immediately found a common language, so a year later our first date happened.</p>
+								<p class="lead">It was the 10th of March, 2024—a Sunday like any other, or so I thought. After the service, I had just risen from my praying knees, ready to join the Mothering Day reception at church. It was a day dedicated to celebrating the women, and in a touching gesture, the men of the church served us. I decided to wait patiently for the last batch to get my meal, taking in the joyful atmosphere.</p>
 							</div>
 						</div>
 					</div>
 					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 item" >
 						<div class="caption">
 							<div class="star center-block">
-								<span class="h3">10</span>
-								<span>March </span>
-								<span>2024</span>
+								<span class="h">Some</span>
+								<span>Other </span>
+								<span>Time</span>
 							</div>
 							<div class="image">
 								<img src="images/time-01.jpg" alt="" />
 								<div class="title">
-									<h2>First Interest <i class="fa fa-angle-right" aria-hidden="true"></i></h2>
+									<h2>Well🤷🏽‍♂️ <i class="fa fa-angle-right" aria-hidden="true"></i></h2>
 								</div>
 							</div>
 							<div class="textContent">
-								<p class="lead">We met at the wedding of our close friends and immediately found a common language, so a year later our first date happened.</p>
+								<p class="lead">Finally, it was my turn, and as I collected my food and settled at a table with friends, I couldn’t help but glance around. That’s when I saw him—a tall, gentle man holding a plate of rice. He sat nearby, and I greeted him warmly. I recognized him as a friend of a friend, but I didn’t realize then that this brief meeting was the beginning of something far more meaningful.</p>
 							</div>
 						</div>
 					</div>
@@ -230,40 +230,40 @@
 								<span>2017</span>
 							</div>
 							<div class="image">
-								<img src="images/time-02.jpg" alt="" />
+								<img src="images/Benediction.png" alt="" />
 								<div class="title">
 									<h2>First date <i class="fa fa-angle-right" aria-hidden="true"></i></h2>
 								</div>
 							</div>
 							<div class="textContent">
-								<p class="lead">We met at the wedding of our close friends and immediately found a common language, so a year later our first date happened.</p>
+								<p class="lead">Later that evening, curiosity got the best of me, and I reached out to a mutual friend for his contact. With genuine friendliness, I offered my assistance as a LinkedIn manager—a simple act that laid the foundation for what was to come. From that Sunday onward, our conversations became frequent and unexpectedly profound. God was speaking to me about him, yet it didn’t make sense to me then, and I prayed fervently to dismiss what I felt stirring.</p>
 							</div>
 						</div>
 					</div>
 						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 item">
 							<div class="caption">
 								<div class="star center-block">
-									<span class="h3">03</span>
-									<span>May</span>
-									<span>2017</span>
+									<span class="h3">11</span>
+									<span>June</span>
+									<span>2024</span>
 								</div>
 								<div class="image">
-									<img src="images/time-03.jpg" alt="" />
+									<img src="images/event-img-01.jpg" alt="" />
 									<div class="title">
 										<h2>Proposal <i class="fa fa-angle-right" aria-hidden="true"></i></h2>
 									</div>
 								</div>
 								<div class="textContent">
-									<p class="lead">We met at the wedding of our close friends and immediately found a common language, so a year later our first date happened.</p>
+									<p class="lead">But then, something changed. Month later, Oluwafemi asked me, quite directly, if I was praying about him. His words caught me off guard. “Praying for you or praying about you?” I replied, half-joking, trying to mask my surprise. He confidently responded that he believed I was praying for him, but humbly requested that I also pray about him. It was then that he revealed his intentions, laying bare what had been on his heart.</p>
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 item">
 							<div class="caption">
 								<div class="star center-block">
-									<span class="h3">04</span>
-									<span>June</span>
-									<span>2017</span>
+									<span class="h">Some</span>
+									<span>Other</span>
+									<span>Time</span>
 								</div>
 								<div class="image">
 									<img src="images/time-04.jpg" alt="" />
@@ -272,42 +272,45 @@
 									</div>
 								</div>
 								<div class="textContent">
-									<p class="lead">For 2 years of work as support engineer responsible about installing and maintenance SWIFT packages for banks. I gain a lot from it before i leave country.</p>
+									<p class="lead">It was a moment of clarity for me. I had been content with the idea of friendship, and nothing more, but Oluwafemi’s sincerity made me realize it was time to surrender my own plans to God and allow myself to be vulnerable.</p>
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 item">
 							<div class="caption">
 								<div class="star center-block">
-									<span class="h3">04</span>
-									<span>July</span>
-									<span>2017</span>
+									<span class="h3">26</span>
+									<span>Dec</span>
+									<span>2024</span>
 								</div>
 								<div class="image">
 									<img src="images/time-05.jpg" alt="" />
 									<div class="title">
-										<h2>My Wedding <i class="fa fa-angle-right" aria-hidden="true"></i></h2>
+										<h2>Our Marriage <i class="fa fa-angle-right" aria-hidden="true"></i></h2>
 									</div>
 								</div>
 								<div class="textContent">
-									<p class="lead">Since then i came to Austria as refugee far from my lovers and friends far a way escaping from wars and threats searching a new life that i didn't find until yet.</p>
+									<p class="lead">In Oluwafemi, I had found more than just a friend. I find a partner I feel confident and joyful walking down the aisle with—a man God had been intentional in bringing into my life. It is more proof to how deeply He loves me, gracing me with one of His loveliest sons. <b><i class="text-red-900">And that’s how our story began.</i></b></p>
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 item">
 							<div class="caption">
-								
+								<div class="star center-block">
+									<!-- <span class="h">26</span> -->
+									<span>Right</span>
+									<span>Now</span>
+								</div>								
 								<div class="image">
-									<p class="text-justify m-2">
-										The love of God, and HIS Grace embedded!
-										HIS Grace is our active Love before we met, while we got into courtship and forever in our marriage. Bestowing nothing less than Himself upon our relationship.
-										This same grace saved us through faith - A priceless gift of God.
-										Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor explicabo dolorem est voluptas, voluptatem architecto minus inventore, accusantium molestias corrupti at deleniti tempore consequuntur minima quo consequatur eos veniam animi!
-										Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium sint quae sit fuga. Iure quibusdam officiis incidunt aspernatur, expedita consectetur, rem praesentium cupiditate laborum nostrum, voluptatum molestias sed ducimus quasi.
-									</p>
+									<img src="images/Benediction.png" alt="">
+									<div class="title">
+										<h2>Our Marriage <i class="fa fa-angle-right" aria-hidden="true"></i></h2>
+									</div>
 								</div>
 								<div class="textContent">
-									<p class="lead">Since then i came to Austria as refugee far from my lovers and friends far a way escaping from wars and threats searching a new life that i didn't find until yet.</p>
+									<p class="lead">The love of God, and HIS Grace embedded!
+										HIS Grace is our active Love before we met, while we got into courtship and forever in our marriage. Bestowing nothing less than Himself upon our relationship.
+										This same grace saved us through faith - A priceless gift of God.</p>
 								</div>
 							</div>
 						</div>
@@ -536,12 +539,13 @@
 							with a monetary gift, or you can send a gift through our link below.
 							<br>
 							With Love and Grateful Hearts,  </p>
-							<h3>G+O</h3>
+							<!-- <h3>G+O</h3> -->
+							<img class="img-fluid" src="images/logo.png" alt=""/>
 							<p class="event-inner">Click <a href="https://www.amazon.com/wedding/share/TheBenediction2024" target="_blank" rel="noopener noreferrer">here</a>  for the Foster Wedding Gift Fund</p>
 					</div>
 				</div>
 			</div>
-			<div class="row">
+			<!-- <div class="row">
 				<div class="col-lg-4 col-md-6 col-sm-12">
 					<div class="event-inner">
 						<div class="event-img">
@@ -572,7 +576,7 @@
 						<a href="#">See location <i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
 					</div>
 				</div>
-			</div>
+			</div> -->
 		</div>
 	</div>
 	<!-- End Events -->
@@ -584,14 +588,23 @@
 				<div class="col-lg-12">
 					<div class="title-box">
 						<h2>Contact wth us</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
 					</div>
+				</div>
+				<div class="title-box">
+						<p class="event-inner">
+							<marquee behavior="" class="inline-flex"direction="left" loop="">
+								<div class="inline-flex items-baseline text-2xl font-bold">
+									<p class="">Hello, There!, We'd like to know your availability on our wedding day. Please fill this form, This will assist with our preparations. </p> 
+									<h1 id="typewriter" class=""></h1>
+								</div>
+							</marquee>
+						</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-lg-12 col-sm-12 col-xs-12">
 				  <div class="contact-block">
-					<form id="contactForm">
+					<form id="contactForm" method="POST" action="https://formspree.io/f/xeqbrnqk" class="contact__form">
 					  <div class="row">
 						<div class="col-md-6">
 							<div class="form-group">
@@ -660,7 +673,37 @@
 		</div>
 	</footer>
 	<!-- End Footer -->
-
+	<script>
+		const words = ["E se pupo!", "Thank You!", "Merci beaucoup!", "Daalụ!"];
+		let i = 0;
+		let j = 0;
+		let currentWord = "";
+		let isDeleting = false;
+		
+		function type() {
+		  currentWord = words[i];
+		  if (isDeleting) {
+			document.getElementById("typewriter").textContent = currentWord.substring(0, j-1);
+			j--;
+			if (j == 0) {
+			  isDeleting = false;
+			  i++;
+			  if (i == words.length) {
+				i = 0;
+			  }
+			}
+		  } else {
+			document.getElementById("typewriter").textContent = currentWord.substring(0, j+1);
+			j++;
+			if (j == currentWord.length) {
+			  isDeleting = true;
+			}
+		  }
+		  setTimeout(type, 200);
+		}
+		
+		type();
+		</script>
 	<!-- ALL JS FILES -->
 	<script src="js/jquery.min.js"></script>
 	<script src="js/popper.min.js"></script>
