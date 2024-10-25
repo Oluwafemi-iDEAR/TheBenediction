@@ -61,9 +61,9 @@
     TimeLine
     ................................................. */
 	$('.timeLine').timeLine({
-        mainColor: '#890025',
+        mainColor: '#98FF98',
         opacity: '0.85',
-        lineColor: '#890025'
+        lineColor: '#fbc223'
     });
 	
 	
@@ -113,7 +113,7 @@
     Countdown Clock
     ................................................. */
 	function makeTimer() {
-		var endTime = new Date("26 December 2024 10:45:00 GMT+01:00");			
+		var endTime = new Date("26 December 2024 11:45:00 GMT+01:00");			
 		endTime = (Date.parse(endTime) / 1000);
 
 		var now = new Date();
