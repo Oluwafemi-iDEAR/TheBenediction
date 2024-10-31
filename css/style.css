@@ -308,14 +308,36 @@ button:focus{
 }
 
 .top-header .navbar .navbar-collapse ul li a.active{
-	background: #98FF98;
-	color: #ffffff;
-}
+	/* background: #881228; */
+	color: #fff;
+	--c: #ae0932;
+	width: 70px;
+	aspect-ratio: 1;
+	background:
+	 /* 1 */ radial-gradient(circle at 60% 65%,var(--c) 64%,#0000 65%) top left/50% 50%,
+	 /* 2 */ radial-gradient(circle at 40% 65%,var(--c) 64%,#0000 65%) top right/50% 50%,
+	 /* 3 */ conic-gradient(from -45deg at 50% 85.5%,var(--c) 90deg,#0000 0) bottom/100% 50%;
+	background-repeat: no-repeat;
+	font-family: 'Engagement', cursive;
+	font-size: 18px;
+  }
+
+
+
 
 .top-header .navbar .navbar-collapse ul li a:hover{
-	background: #98FF98;
-	color: #ffffff;
-}
+	/* background: #98FF98; */
+	color: #ae0932;
+	font-family: 'Engagement', cursive;
+	--c: #98FF98;
+	width: 70px;
+	aspect-ratio: 1;
+	background:
+	 /* 1 */ radial-gradient(circle at 60% 65%,var(--c) 64%,#0000 65%) top left/50% 50%,
+	 /* 2 */ radial-gradient(circle at 40% 65%,var(--c) 64%,#0000 65%) top right/50% 50%,
+	 /* 3 */ conic-gradient(from -45deg at 50% 85.5%,var(--c) 90deg,#0000 0) bottom/100% 50%;
+	background-repeat: no-repeat;
+  }
 
 
 .top-header.fixed-menu{
@@ -398,7 +420,7 @@ button:focus{
     text-align: center;
     vertical-align: middle;
 	position: absolute;
-	color: #800020 !important;
+	color: #ae0932 !important;
 	top: 0px;
 	left: 0;
 	right: 0;
@@ -457,7 +479,7 @@ button:focus{
 }
 
 .countdown{
-	background: url(../images/ptn-bg.jpg);
+	/* background: url(../images/ptn-bg.jpg); */
 	background-size: cover;
 	width: 100%;
 	height: 100%;
@@ -468,11 +490,24 @@ button:focus{
 	z-index: 5;
 	border-radius: 20px 20px 20px 20px;
 }
+.countdown::before{
+	content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url(../images/ptn-bg.jpg) no-repeat center center;
+    background-size: cover;
+    opacity: 0.8; /* Adjust the opacity for fade effect */
+    z-index: -1; /* Keep the overlay behind the text */
+    border-radius: inherit; /* Maintain border radius if any */
+}
 .countdown #timer div{
 	display: inline-block;
 	background: transparent;
 	width: 20%;
-	color: #800020;
+	color: #ae0932;
 	font-size: 38px;
 	/* border-radius: 0px 0px 20px 20px;
 	box-shadow: inset 0 0 0 5px rgba(251,194,35,0.9), 0 1px 2px rgba(82,135,128,0.1); */
@@ -482,20 +517,35 @@ button:focus{
 	-ms-transition: all 0.4s ease-in-out;
 	transition: all 0.4s ease-in-out;
 }
+.countdown #timer h3 {
+    position: relative; /* Needed for the overlay to position absolutely */
+    font-family: 'Engagement', cursive;
+    font-size: 38px;
+    color: #ae0932;
+    font-weight: normal;
+    padding: 0px;
+    padding-top: 28px;
+    padding-bottom: 17px;
+    background: none; /* Remove background image from here */
+}
 
-.countdown #timer h3{
-	font-family: 'Engagement', cursive;
-	font-size: 38px;
-	color: #800020;
-	font-weight: normal;
-	padding: 0px;
-	padding-top: 28px;
-	padding-bottom: 17px;
-	background: #98FF98;
+/* Create a faded overlay with the background image */
+.countdown #timer h3::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    /* background: url(../images/ptn-bg.jpg) no-repeat center center; */
+    background-size: cover;
+    opacity: 0.8; /* Adjust the opacity for fade effect */
+    z-index: -1; /* Keep the overlay behind the text */
+    border-radius: inherit; /* Maintain border radius if any */
 }
 
 .countdown #timer div h6{
-	color: #800020;
+	color: #ae0932;
 	font-weight: 600;
 	font-size: 16px;
 }
@@ -565,11 +615,11 @@ button:focus{
 .title-box h2{
 	font-size: 60px;
 	font-family: 'Engagement', cursive;
-	color: #800020;
+	color: #ae0932;
 }
 span{
 	font-family: 'Engagement', cursive;
-	color: #800020 !important;
+	color: #ae0932 !important;
 }
 .title-box h2 span{
 	color: #98FF98;
@@ -588,7 +638,7 @@ span{
 }
 
 .about-m{
-	background: #98FF98;
+	/* background: #98FF98; */
 	padding: 0px 30px;
 }
 
@@ -622,7 +672,7 @@ span{
 }
 
 .about-m ul li a:hover{
-	background: #800020;
+	background: #ae0932;
 	color: #ffffff;
 }
 
