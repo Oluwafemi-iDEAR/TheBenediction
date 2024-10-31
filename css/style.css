@@ -420,7 +420,7 @@ button:focus{
     text-align: center;
     vertical-align: middle;
 	position: absolute;
-	color: #ae0932 !important;
+	color: #fff !important;
 	top: 0px;
 	left: 0;
 	right: 0;
@@ -660,7 +660,7 @@ span{
 	text-align: center;
 }
 .about-m ul li a{
-	background: #fbc223;
+	background: #98FF98;
 	color: #ffffff;
 	width: 38px;
 	height: 38px;
@@ -669,11 +669,13 @@ span{
 	display: block;
 	border-radius: 50px;
 	margin: 0px 5px;
+	border: 1px solid #ae0932;
 }
 
 .about-m ul li a:hover{
 	background: #ae0932;
-	color: #ffffff;
+	color: #fff;
+	border: 1px solid #98FF98;
 }
 
 
