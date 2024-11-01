@@ -187,8 +187,8 @@ button:focus{
 	width: 100%;
 	height: 100%;
 	position: absolute;
-	-webkit-animation: 7s pulse linear infinite;
-	animation: 7s pulse linear infinite;
+	-webkit-animation: 7s pulse linear infinite !important;
+	animation: 7s pulse linear infinite !important;
     clip: rect(0, 0, 100px, 0);
 	background-position: 50px 0px;
 }
