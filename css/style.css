@@ -127,7 +127,7 @@ a,
 .lead {
     font-size: 18px;
     line-height: 30px;
-    color: #767676;
+    color: #707070;
     margin: 0;
     padding: 0;
 }
@@ -187,8 +187,8 @@ button:focus{
 	width: 100%;
 	height: 100%;
 	position: absolute;
-	-webkit-animation: 2s pulse linear infinite;
-	animation: 2s pulse linear infinite;
+	-webkit-animation: 7s pulse linear infinite;
+	animation: 7s pulse linear infinite;
     clip: rect(0, 0, 100px, 0);
 	background-position: 50px 0px;
 }
@@ -928,7 +928,7 @@ span{
 
 .wedding-box{
 	padding: 70px 0px;
-	/* background: url(../images/ptn-bg.jpg); */
+	background: url(../images/ptn-bg.jpg);
 }
 
 .serviceBox{
@@ -1008,7 +1008,7 @@ span{
 
 .events-box{
 	padding: 70px 0px;
-	background: url(../images/ptn-bg.jpg);
+	/* background: url(../images/ptn-bg.jpg); */
 }
 .event-inner{
 	background: #ffffff;
@@ -1064,6 +1064,7 @@ span{
 
 .contact-box{
 	padding: 70px 0px;
+	background: url(../images/ptn-bg.jpg);
 }
 .contact-block{}
 
