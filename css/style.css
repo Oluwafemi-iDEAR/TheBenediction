@@ -1006,6 +1006,30 @@ span{
 }
 
 
+
+.modalBox{
+    padding: 25px 30px;
+    text-align: center;
+    background: #ffffff;
+    border-top: 3px solid #f5bd0a;
+    border-bottom: 3px solid #f5bd0a;
+    position: relative;
+}
+.modalBox:before{
+    content: "";
+    border-top: 0 solid #cb00f5;
+    border-right: 0 solid transparent;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 1;
+    transition: all 0.3s ease 0s;
+}
+.modalBox:hover:before{
+    border-top-width: 78px;
+    border-right-width: 78px;
+}
+
 /*------------------------------------------------------------------
     Events
 -------------------------------------------------------------------*/
