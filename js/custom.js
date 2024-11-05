@@ -7,7 +7,7 @@
 	
 	$(window).on('load', function() { 
 		$('.preloader').fadeOut(); 
-		$('#preloader').delay(2500).fadeOut('slow');
+		$('#preloader').delay(2000).fadeOut('slow');
 		$('body').delay(450).css({'overflow':'visible'});
 	});
     	
@@ -61,8 +61,8 @@
     TimeLine
     ................................................. */
 	$('.timeLine').timeLine({
-        mainColor: '#98FF98',
-        opacity: '0.85',
+        mainColor: '#cb00f5',
+        opacity: '0.55',
         lineColor: '#fbc223'
     });
 	
