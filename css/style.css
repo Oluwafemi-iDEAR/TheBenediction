@@ -621,11 +621,12 @@ button:focus{
 	/* color: #ae0932; */
 }
 span{
-	font-family: 'Engagement', cursive;
-	color: #cb00f5 !important;
+	/* font-family: 'Engagement', cursive; */
+	color: #fff;
 }
 .title-box h2 span{
-	color: #f5bd0a;
+	/* color: #f5bd0a; */
+	color: #cb00f5;
 	text-decoration: underline;
 }
 .about-main-info h2{
@@ -633,7 +634,7 @@ span{
 	font-family: 'Engagement', cursive;
 }
 .about-main-info h2 span{
-	color: #f5bd0a;
+	color: #cb00f5;
 	text-decoration: underline;
 }
 .about-main-info{
@@ -851,7 +852,7 @@ span{
 	color: #ffffff;
 }
 .title h2{
-	color: #5e0808;
+	color: #ffffff;
 	padding: 10px 0px;
 }
 
@@ -944,7 +945,7 @@ span{
 }
 .serviceBox:before{
     content: "";
-    border-top: 0 solid #f5bd0a;
+    border-top: 0 solid #cb00f5;
     border-right: 0 solid transparent;
     position: absolute;
     left: 0;
@@ -958,7 +959,7 @@ span{
 }
 .serviceBox:after{
     content: "";
-    border-bottom: 0 solid #f5bd0a;
+    border-bottom: 0 solid #cb00f5;
     border-left: 0 solid transparent;
     position: absolute;
     bottom: 0;
