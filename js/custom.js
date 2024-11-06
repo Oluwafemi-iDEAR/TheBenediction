@@ -61,9 +61,10 @@
     TimeLine
     ................................................. */
 	$('.timeLine').timeLine({
-        mainColor: '#cb00f5',
+        mainColor: '#a200c4',
         opacity: '0.55',
-        lineColor: '#fbc223'
+        // lineColor: '#fbc223'
+		lineColor: '#a200c4'
     });
 	
 	
