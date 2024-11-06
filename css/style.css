@@ -864,7 +864,10 @@ span{
 	opacity: 1;
 	visibility: visible;
 }
-
+.card-title{
+	font-family: 'Engagement', cursive;
+	font-size: 24px;
+}
 .family-info h4{
 	font-family: 'Engagement', cursive;
 	font-size: 24px;
